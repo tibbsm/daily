@@ -13,4 +13,6 @@ Questions from:
   * [BBC Article](http://www.bbc.com/future/story/20181002-how-long-did-ancient-people-live-life-span-versus-longevity)
 * [23andMe](https://news.ycombinator.com/item?id=18134393)
 * [Best textbooks](https://news.ycombinator.com/item?id=18104814)
+* [Japan set to allow gene-editing tools for research into early human development](https://news.ycombinator.com/item?id=18137204)
+
 
