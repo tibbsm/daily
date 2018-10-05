@@ -15,4 +15,11 @@ Questions from:
 * [Best textbooks](https://news.ycombinator.com/item?id=18104814)
 * [Japan set to allow gene-editing tools for research into early human development](https://news.ycombinator.com/item?id=18137204)
 
+---
+05102018FRI
+
+* [Psychedelic mushrooms](https://news.ycombinator.com/item?id=18134173)
+
+
+
 
