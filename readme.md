@@ -5,7 +5,7 @@ Questions from:
 * https://www.dailycodingproblem.com
 
 ---
-**09102018TUE**
+### 09102018TUE
 
 * [Richly rewarding activities](https://news.ycombinator.com/item?id=18098992&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
 * [When do you know when you're done for the day](https://news.ycombinator.com/item?id=18103640&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
@@ -17,12 +17,12 @@ Questions from:
 
 
 ---
-**05102018FRI**
+### 05102018FRI
 
 * [Psychedelic mushrooms](https://news.ycombinator.com/item?id=18134173)
 
 ---
-**04102018THU**
+### 04102018THU
 
 * Aquaponics
   * [Instructable](https://www.instructables.com/id/Small-DIY-Aquaponics-System/)
