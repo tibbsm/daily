@@ -14,9 +14,11 @@ Questions from:
 * [It doesn't have to be crazy at work](https://basecamp.com/books/calm?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 * [Best advice for jr developers](https://news.ycombinator.com/item?id=18128477&utm_source=hackernewsletter&utm_medium=email&utm_term=working)
 * [NAOqi Documentation](http://doc.aldebaran.com/2-1/index.html)
-
+  * Itineraries/paths
+  * Camping, ryokans, minshukus, and more
 * Kamano Kodo
   * [Kumano Travel](https://www.kumano-travel.com/)
+  * [6 day itinerary[(https://www.kumano-travel.com/en/model-itineraries/6-days-E1-kumano-kodo-trek-nakahechi)
 * Shikoku Pilgrimage
 ---
 ### 05102018FRI
