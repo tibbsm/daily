@@ -2,7 +2,7 @@
 
 Questions from:
 * leetcode.com
-* https://www.dailycodingproblem.com
+* dailycodingproblem.com
 
 ---
 ### 09102018TUE
