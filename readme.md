@@ -24,6 +24,7 @@ Questions from:
   * https://boeing.referrals.selectminds.com/?oif_login=success&et=ZC2jTNS1
 * Fantasy Basketball:
   * [Puntint assists](https://www.elitefantasybasketball.com/2018/09/13/18-19-punting-guides-part-1-punt-assists/)
+  * [League link](http://fantasy.espn.com/basketball/league/join?leagueId=53867440&inviteId=f4483ae5-1f94-4f4c-abac-f0ff5f1fcd84)
 
 ---
 ### 05102018FRI
