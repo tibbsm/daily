@@ -13,7 +13,7 @@ Questions from:
 * [List of live coding](https://shipstreams.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
 * [It doesn't have to be crazy at work](https://basecamp.com/books/calm?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 * [Best advice for jr developers](https://news.ycombinator.com/item?id=18128477&utm_source=hackernewsletter&utm_medium=email&utm_term=working)
-
+* [NAOqi Documentation](http://doc.aldebaran.com/2-1/index.html)
 ---
 ### 05102018FRI
 
