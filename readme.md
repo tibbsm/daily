@@ -11,7 +11,6 @@ Questions from:
 * [When do you know when you're done for the day](https://news.ycombinator.com/item?id=18103640&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
 * [What did you learn the hard way](https://news.ycombinator.com/item?id=18132736&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
 * [List of live coding](https://shipstreams.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
-* [Best textbooks](https://news.ycombinator.com/item?id=18104814&utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 * [It doesn't have to be crazy at work](https://basecamp.com/books/calm?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 * [Best advice for jr developers](https://news.ycombinator.com/item?id=18128477&utm_source=hackernewsletter&utm_medium=email&utm_term=working)
 
