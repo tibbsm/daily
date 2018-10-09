@@ -15,7 +15,6 @@ Questions from:
 * [It doesn't have to be crazy at work](https://basecamp.com/books/calm?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 * [Best advice for jr developers](https://news.ycombinator.com/item?id=18128477&utm_source=hackernewsletter&utm_medium=email&utm_term=working)
 
-
 ---
 ### 05102018FRI
 
@@ -31,4 +30,3 @@ Questions from:
 * [23andMe](https://news.ycombinator.com/item?id=18134393)
 * [Best textbooks](https://news.ycombinator.com/item?id=18104814)
 * [Japan set to allow gene-editing tools for research into early human development](https://news.ycombinator.com/item?id=18137204)
-
