@@ -9,7 +9,7 @@ Questions from:
 * Paypal
   * [Jobs](https://paypal.rolepoint.com/?shorturl=R5EEe#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDQo-eq-QkM)
   * [Intern](https://paypal.rolepoint.com/?shorturl=R5EEe#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDQo-eq-QkM)
-
+  * [How to get a job in JP](https://www.makeleaps.jp/blog/en/2011/07/how-to-get-a-job-in-japan-or-anywhere/)
 ---
 ### 09102018TUE
 
