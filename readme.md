@@ -1,4 +1,4 @@
-# daily 
+# Daily 
 
 Questions from:
 * leetcode.com
