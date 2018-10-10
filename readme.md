@@ -5,6 +5,12 @@ Questions from:
 * dailycodingproblem.com
 
 ---
+### 10102018WED
+* Paypal
+  * [Jobs](https://paypal.rolepoint.com/?shorturl=R5EEe#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDQo-eq-QkM)
+  * [Intern](https://paypal.rolepoint.com/?shorturl=R5EEe#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDQo-eq-QkM)
+
+---
 ### 09102018TUE
 
 * [Richly rewarding activities](https://news.ycombinator.com/item?id=18098992&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
