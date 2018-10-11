@@ -5,7 +5,7 @@ Questions from:
 * dailycodingproblem.com
 
 ### 11102018THU
-* 1
+* [Aerobic exercise and mental enhancement](https://news.ycombinator.com/item?id=18182012)
 
 ---
 ### 10102018WED
