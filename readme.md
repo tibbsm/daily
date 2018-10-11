@@ -2,6 +2,7 @@
 
 Questions from: [Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingproblem.com)
 
+## Notes
 ---
 ### 11102018THU
 * [Aerobic exercise and mental enhancement](https://news.ycombinator.com/item?id=18182012)
