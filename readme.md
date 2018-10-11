@@ -4,6 +4,9 @@ Questions from:
 * leetcode.com
 * dailycodingproblem.com
 
+### 11102018THU
+* 1
+
 ---
 ### 10102018WED
 * Paypal
