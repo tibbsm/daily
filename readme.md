@@ -1,11 +1,13 @@
 # Daily 
 
-Questions from: [Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingproblem.com)
+Coding Questions: [Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingproblem.com)
+Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldaily.com/), 
 
 ## Notes
 
 ### 11102018THU
 * [Aerobic exercise and mental enhancement](https://news.ycombinator.com/item?id=18182012)
+* [Benefits of Home Libraries](https://psmag.com/education/home-libraries-confer-long-term-benefits)
 
 ---
 ### 10102018WED
