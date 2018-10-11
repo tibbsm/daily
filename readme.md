@@ -1,8 +1,7 @@
 # Daily 
 
 Questions from:
-* leetcode.com
-* dailycodingproblem.com
+* [Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingproblem.com)
 
 ### 11102018THU
 * [Aerobic exercise and mental enhancement](https://news.ycombinator.com/item?id=18182012)
