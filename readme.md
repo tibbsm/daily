@@ -5,6 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 12102018FRI
+* 
+---
 ### 11102018THU
 * [Aerobic exercise and mental enhancement](https://news.ycombinator.com/item?id=18182012)
 * [Benefits of Home Libraries](https://psmag.com/education/home-libraries-confer-long-term-benefits)
