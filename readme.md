@@ -5,9 +5,13 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 14102018SUN
+
+---
 ### 13102018SAT
 * [Ask HN: Cheap places to live with a good intellectual atmosphere?](https://news.ycombinator.com/item?id=18164189&p=3)
 
+---
 ### 12102018FRI
 * Given a list of numbers and a number k, return whether any two numbers from the list add up to k. For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
   * Bonus: Can you do this in one pass? 
