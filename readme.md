@@ -14,6 +14,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
   * Assembly -> x86
   * [Hyper Polyglot](http://hyperpolyglot.org/)
   * [Learn X in Y Minutes](https://learnxinyminutes.com/)
+* bitflyer
+  * ds & a: trees
+  * Networking
 * [Kotlin Android Course - Udemy](https://www.udemy.com/the-complete-kotlin-developer-course/)
 
 ---
