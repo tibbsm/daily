@@ -5,7 +5,8 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
-### 14102018SUN
+### 14102018MON
+* [Kotlin Android Course - Udemy](https://www.udemy.com/the-complete-kotlin-developer-course/)
 
 ---
 ### 13102018SAT
