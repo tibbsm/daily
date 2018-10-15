@@ -5,7 +5,15 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
-### 14102018MON
+### 15102018MON
+* [Learning Programming Lanaguages](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
+  * Class Abstractions -> C++/Java
+  * Functional Abstraction -> Lisp/ML/Haskell
+  * Syntatic Abstraction -> Lisp
+  * Declarative specifications -> Prolog / C++ templates
+  * Assembly -> x86
+  * [Hyper Polyglot](http://hyperpolyglot.org/)
+  * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * [Kotlin Android Course - Udemy](https://www.udemy.com/the-complete-kotlin-developer-course/)
 
 ---
