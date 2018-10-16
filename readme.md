@@ -5,6 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 16102018TUE
+
+---
 ### 15102018MON
 * [Learning Programming Lanaguages](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
   * Class Abstractions -> C++/Java
