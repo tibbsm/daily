@@ -6,7 +6,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ## Notes
 
 ### 17102018WED
-* new day
+* [WHEN DOES EDUCATION STOP?](http://www.asahi-net.or.jp/~xs3d-bull/michener.html)
+* [Android Interview Prep](https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def)
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
 ---
 ### 16102018TUE
