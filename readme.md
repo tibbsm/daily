@@ -5,7 +5,12 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 17102018WED
+* new day
+
+---
 ### 16102018TUE
+* ? What are Android dev interview questions? Study
 
 ---
 ### 15102018MON
