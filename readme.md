@@ -5,6 +5,11 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+
+### 18102018THU
+* [Free Online Bootcamp](https://open.appacademy.io/)
+
+---
 ### 17102018WED
 * [WHEN DOES EDUCATION STOP?](http://www.asahi-net.or.jp/~xs3d-bull/michener.html)
 * [Android Interview Prep](https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def)
