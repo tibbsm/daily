@@ -5,7 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 19102018
 
+---
 ### 18102018THU
 * [Free Online Bootcamp](https://open.appacademy.io/)
 
