@@ -5,7 +5,8 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
-### 19102018
+### 22102018MON
+* [Carpenter School in Ikebukuro](http://www.doken-college.ac.jp/)
 
 ---
 ### 18102018THU
