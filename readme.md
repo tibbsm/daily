@@ -5,10 +5,17 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 23102018TUE
+* Japanese Lit, Movies, etc.
+  * Osamu Tezuka - Phoenix, Black Jack
+  * Shinichi Hoshi - SciFi Short Stories for Children
+  * Millenium Actress
+
 ### 22102018MON
 * [Carpenter School in Ikebukuro](http://www.doken-college.ac.jp/)
 * [The bookish life](https://www.firstthings.com/article/2018/11/the-bookish-life)
 * [Crisis intimacy in the digital age](https://lareviewofbooks.org/article/crisis-intimacy-age-digital-connectivity/#!)
+* [Cheese Guy in Okinawa](http://thecheeseguyinokinawa.com/)
 
 ---
 ### 18102018THU
