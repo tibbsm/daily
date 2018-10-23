@@ -10,6 +10,18 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
   * Osamu Tezuka - Phoenix, Black Jack
   * Shinichi Hoshi - SciFi Short Stories for Children
   * Millenium Actress
+* [Home Brew Beer in Small Batches"](https://byo.com/article/small-scale-brewing/)
+* Home Brew Equiment
+  * [Sakeland](https://www.sakeland.net/)
+  * [The Malt Shop](http://themaltshop.biz/)
+  * [Advanced Brewing](http://advanced-brewing.com/)
+* Beer companies must make at least 
+  * [Rules for making happoshu](http://blogs.platts.com/2018/04/19/japan-brewers-aluminum-pet-packaging/)
+  * [JP Beer Definitions](https://www.beerbeerbeer.jp/the-craft/changes-to-japanese-beer-definitions-2018)
+* Happoshu
+  * 6kl / year; 25l / day; 845 oz / day; 71oz (12 oz cans); 53(16 oz)
+  * 10-12 brewers
+  * special ingredients // 50% lower hops
 
 ### 22102018MON
 * [Carpenter School in Ikebukuro](http://www.doken-college.ac.jp/)
