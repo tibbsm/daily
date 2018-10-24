@@ -5,6 +5,10 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 24102018WED
+
+
+---
 ### 23102018TUE
 * Japanese Lit, Movies, etc.
   * Osamu Tezuka - Phoenix, Black Jack
