@@ -5,6 +5,10 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 25102018THU
+* 
+
+---
 ### 24102018WED
 * [NBA API Client](https://github.com/swar/nba_api)
 
