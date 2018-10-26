@@ -5,8 +5,12 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 26102018FRI
+*
+
+---
 ### 25102018THU
-* 
+* [Useful robots are a fantasy?](https://news.ycombinator.com/item?id=18290228) 
 
 ---
 ### 24102018WED
