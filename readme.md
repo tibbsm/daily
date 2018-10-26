@@ -5,6 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 27102018SAT
+
+---
 ### 26102018FRI
 * [Top 25 Asia Startups](https://kintu.co/asia-robotics-startups/)
 * [Japan Robot Startups](https://angel.co/japan/robotics/jobs)
