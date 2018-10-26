@@ -9,6 +9,8 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 * [Top 25 Asia Startups](https://kintu.co/asia-robotics-startups/)
 * [Japan Robot Startups](https://angel.co/japan/robotics/jobs)
 * [5 Japanese Startups](https://www.redherring.com/uncategorized/5-japanese-startups-you-should-check-out-now/)
+* [Rapyuta Interview Questions](https://www.glassdoor.ie/Interview/Rapyuta-Robotics-Interview-Questions-E1310299.htm)
+* [Intelligent Robotics and Autonomous Agents Series](https://mitpress.mit.edu/books/series/intelligent-robotics-and-autonomous-agents-series)
 
 ---
 ### 25102018THU
