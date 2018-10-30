@@ -12,8 +12,11 @@ def findLow(arr):
         if arr[i] < 0 or arr[i] >= size:
             arr[i] = 0
 
+    print arr
+
     for i in range(len(arr)):
         arr[arr[i]%size] += size
+        print arr
 
     for i in range(1, len(arr)):
         if arr[i]/size == 0:
