@@ -5,7 +5,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
-### 31102018WED
+### 01112018THU
 
 ---
 ### 26102018FRI
