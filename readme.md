@@ -6,7 +6,12 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ## Notes
 
 ### 01112018THU
-
+* [Levels](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
+* [Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
+* [Retire Japan](http://www.retirejapan.info/)
+* [Kojin Kigyo - Sole Proprietorship](https://www.tokyodev.com/2014/04/17/creating-company-japan/)
+* [Recreate photos with random shape generator](https://primitive.lol/)
+* [Too many humans](https://www.theguardian.com/commentisfree/2017/dec/11/mass-starvation-humanity-flogging-land-death-earth-food)
 ---
 ### 26102018FRI
 * [Top 25 Asia Startups](https://kintu.co/asia-robotics-startups/)
