@@ -5,6 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 02112018FRI
+* TGIF
+
 ### 01112018THU
 * [Levels](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
 * [Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
