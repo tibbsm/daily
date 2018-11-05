@@ -5,6 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 05112018MON
+*
+
 ### 02112018FRI
 * [Stanford DB Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
