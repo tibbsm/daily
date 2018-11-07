@@ -5,6 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 06112018TUE
+*
+
 ### 05112018MON
 * [Influential Books](https://www.chronicle.com/interactives/influential-books)
 
