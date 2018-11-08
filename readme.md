@@ -8,6 +8,10 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ### 07112018THU
 * [Really good review of 7 Types of Atheism](https://home.isi.org/john-gray-spinoza-today)
 * [Interview with John Gray](https://www.vox.com/2018/10/30/17936564/new-atheism-religion-science-god-john-gray)
+* [How Duchamps Urinal Embodies the Liberal West](https://unherd.com/2018/11/how-duchamps-urinal-embodies-the-liberal-west/)
+* [More Gray](https://unherd.com/2018/10/deluded-liberals-cant-keep-clinging-dead-idea/?=refinnar)
+* [The Rise of Post-truth politics](https://unherd.com/2018/09/the-rise-of-the-post-truth-liberals/?=refinnar)
+
 
 ### 05112018MON
 * [Influential Books](https://www.chronicle.com/interactives/influential-books)
