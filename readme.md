@@ -5,8 +5,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
-### 08112018FRI
-* new day
+### 11112018FRI
 
 ### 07112018THU
 * [Really good review of 7 Types of Atheism](https://home.isi.org/john-gray-spinoza-today)
