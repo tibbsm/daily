@@ -5,8 +5,10 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+---
 ### 11112018FRI
 
+---
 ### 07112018THU
 * [Really good review of 7 Types of Atheism](https://home.isi.org/john-gray-spinoza-today)
 * [Interview with John Gray](https://www.vox.com/2018/10/30/17936564/new-atheism-religion-science-god-john-gray)
@@ -14,13 +16,15 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 * [More Gray](https://unherd.com/2018/10/deluded-liberals-cant-keep-clinging-dead-idea/?=refinnar)
 * [The Rise of Post-truth politics](https://unherd.com/2018/09/the-rise-of-the-post-truth-liberals/?=refinnar)
 
-
+---
 ### 05112018MON
 * [Influential Books](https://www.chronicle.com/interactives/influential-books)
 
+---
 ### 02112018FRI
 * [Stanford DB Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
+---
 ### 01112018THU
 * [Levels](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
 * [Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
@@ -28,6 +32,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 * [Kojin Kigyo - Sole Proprietorship](https://www.tokyodev.com/2014/04/17/creating-company-japan/)
 * [Recreate photos with random shape generator](https://primitive.lol/)
 * [Too many humans](https://www.theguardian.com/commentisfree/2017/dec/11/mass-starvation-humanity-flogging-land-death-earth-food)
+
 ---
 ### 26102018FRI
 * [Top 25 Asia Startups](https://kintu.co/asia-robotics-startups/)
