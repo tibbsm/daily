@@ -6,6 +6,10 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ## Notes
 
 ---
+### 15112018THU
+
+
+---
 ### 14112018WED
 * [Dev Hints](https://devhints.io/)
 
