@@ -6,8 +6,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ## Notes
 
 ---
-### 15112018THU
-
+### 16112018FRI
 
 ---
 ### 14112018WED
@@ -16,6 +15,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ---
 ### 13112018TUE
 * [ADB disable nav bar](https://forum.xda-developers.com/nexus-6p/general/guide-remove-navigation-bar-using-adb-t3775768)
+  * "adb shell wm overscan 0,0,0,-202" 
 * [Offline App](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
 * [Stanford Android Class](http://web.stanford.edu/class/cs193a/lectures.shtml)
 
