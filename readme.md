@@ -6,7 +6,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ## Notes
 
 ---
-### 18112018SUN
+### 26112018MON
+* [Scotts Cheap Flights](https://scottscheapflights.com/)
+* [Secret Flying](https://www.secretflying.com/posts/non-stop-tokyo-japan-singapore-327-usd-roundtrip/)
 
 ---
 ### 14112018WED
