@@ -8,7 +8,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ### 29112018THU
 * [Japan is giving away Abandoned Homes](https://news.ycombinator.com/item?id=18548742)
 * [Inaka Homes](https://inakanoseikatsu.com/)
-
+* [Another one](http://www.ieichiba.com/)
 ---
 ### 26112018MON
 * [Scotts Cheap Flights](https://scottscheapflights.com/)
