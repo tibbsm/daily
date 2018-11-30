@@ -5,6 +5,9 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 01122018SAT
+* [The art of ](https://www.artofwork.co/job-interviewing?utm_source=hackernewsletter&utm_medium=email&utm_term=working)
+
 ### 29112018THU
 * [Japan is giving away Abandoned Homes](https://news.ycombinator.com/item?id=18548742)
 * [Inaka Homes](https://inakanoseikatsu.com/)
