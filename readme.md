@@ -5,6 +5,12 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 03122018MON
+* [The Ultimate Android Dev Guide](https://techbeacon.com/ultimate-android-development-guide-50-beginner-expert-resources)
+* [Learn from 21 Android apps](https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps)
+* [MVC vs MVP vs MVVM](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/)
+* [Learn Rx in Kotlin](https://www.raywenderlich.com/384-reactive-programming-with-rxandroid-in-kotlin-an-introduction)
+
 ### 01122018SAT
 * [The art of ](https://www.artofwork.co/job-interviewing?utm_source=hackernewsletter&utm_medium=email&utm_term=working)
 
