@@ -11,6 +11,13 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
   * [How did you teach yourself Android](https://www.reddit.com/r/androiddev/comments/2utw1z/how_did_you_teach_yourself_android/cobp4b8/)
   * [Udacity Course](https://classroom.udacity.com/courses/ud851)
 
+* CS 361 - Software Engineering I
+  * Textbook - Software Engineering - Theory and Practice, 4E (Pearson)
+
+* CS 344 - Operating Systems
+  * [Unix Workbench](https://www.coursera.org/learn/unix)
+  * [Cheatsheet](https://devhints.io/bash)
+
 ### 03122018MON
 * [The Ultimate Android Dev Guide](https://techbeacon.com/ultimate-android-development-guide-50-beginner-expert-resources)
 * [Learn from 21 Android apps](https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps)
