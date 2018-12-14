@@ -5,6 +5,12 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
 
+### 14122018FRI
+* Android Dev
+  * [AndroidDev Subreddit Wiki](https://www.reddit.com/r/androiddev/wiki/index)
+  * [How did you teach yourself Android](https://www.reddit.com/r/androiddev/comments/2utw1z/how_did_you_teach_yourself_android/cobp4b8/)
+  * [Udacity Course](https://classroom.udacity.com/courses/ud851)
+
 ### 03122018MON
 * [The Ultimate Android Dev Guide](https://techbeacon.com/ultimate-android-development-guide-50-beginner-expert-resources)
 * [Learn from 21 Android apps](https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps)
