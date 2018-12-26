@@ -5,8 +5,6 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ## Notes
  
-### 18122018TUE
-
 ### 14122018FRI
 * Android Dev
   * [AndroidDev Subreddit Wiki](https://www.reddit.com/r/androiddev/wiki/index)
