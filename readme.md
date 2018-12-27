@@ -4,7 +4,9 @@ Coding Questions: [Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingp
 Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldaily.com/), 
 
 ## Notes
- 
+
+### 27122018THU
+
 ### 14122018FRI
 * Android Dev
   * [AndroidDev Subreddit Wiki](https://www.reddit.com/r/androiddev/wiki/index)
