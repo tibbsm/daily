@@ -7,6 +7,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 
 ### 27122018THU
 * [Markdown notes app from Hacker](https://github.com/fabiospampinato/notable)
+* [Typora: Lightweight Makrdown Editor](https://typora.io/)
 
 ### 14122018FRI
 * Android Dev
