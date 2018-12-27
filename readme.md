@@ -6,6 +6,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ## Notes
 
 ### 27122018THU
+*
 
 ### 14122018FRI
 * Android Dev
