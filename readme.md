@@ -6,7 +6,7 @@ Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldail
 ## Notes
 
 ### 27122018THU
-* [Markdown notes](https://github.com/fabiospampinato/notable)
+* [Markdown notes app from Hacker](https://github.com/fabiospampinato/notable)
 
 ### 14122018FRI
 * Android Dev
