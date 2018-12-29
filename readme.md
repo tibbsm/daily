@@ -1,7 +1,11 @@
 # Daily 
 
-Coding Questions: [Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingproblem.com)
-Articles: [Hacker News](https://news.ycombinator.com/), [ALDaily](https://aldaily.com/), 
+Coding Questions: 
+[Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingproblem.com)
+
+Articles: 
+[Hacker News](https://news.ycombinator.com/), 
+[ALDaily](https://aldaily.com/), 
 
 ## Notes
 
