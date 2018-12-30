@@ -1,9 +1,9 @@
 # Daily 
 
-Coding Questions: 
+#### Coding Questions: 
 [Leetcode](leetcode.com) & [Daily Coding Problem](dailycodingproblem.com)
 
-Articles: 
+#### Articles: 
 [Hacker News](https://news.ycombinator.com/), 
 [ALDaily](https://aldaily.com/), 
 
