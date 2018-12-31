@@ -1,11 +1,13 @@
 # Daily 
 
 #### Coding Questions: 
-[Leetcode](https://leetcode.com), [HackerRank](https://www.hackerrank.com), [Daily Coding Problem](https://dailycodingproblem.com)
+* [Leetcode](https://leetcode.com)
+* [HackerRank](https://www.hackerrank.com)
+* [Daily Coding Problem](https://dailycodingproblem.com)
 
 #### Articles: 
-[Hacker News](https://news.ycombinator.com/), 
-[ALDaily](https://aldaily.com/), 
+* [Hacker News](https://news.ycombinator.com/)
+* [ALDaily](https://aldaily.com/)
 
 ## Notes
 
