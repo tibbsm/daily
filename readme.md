@@ -1,7 +1,7 @@
 # Daily 
 
 #### Coding Questions: 
-[Leetcode](leetcode.com), [Daily Coding Problem](dailycodingproblem.com)
+[Leetcode](https://leetcode.com), [Daily Coding Problem](https://dailycodingproblem.com)
 
 #### Articles: 
 [Hacker News](https://news.ycombinator.com/), 
