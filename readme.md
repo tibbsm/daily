@@ -8,6 +8,7 @@
 #### Articles
 * [Hacker News](https://news.ycombinator.com/)
 * [ALDaily](https://aldaily.com/)
+* [3 Quarks Daily](https://www.3quarksdaily.com/)
 
 ## Notes
 
