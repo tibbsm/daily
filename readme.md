@@ -4,6 +4,8 @@
 * [Leetcode](https://leetcode.com)
 * [HackerRank](https://www.hackerrank.com)
 * [Daily Coding Problem](https://dailycodingproblem.com)
+* Project Euler
+* [Cut the Knot](http://www.cut-the-knot.org/)
 
 #### Articles
 * [Hacker News](https://news.ycombinator.com/)
