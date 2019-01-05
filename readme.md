@@ -14,6 +14,10 @@
 
 ## Notes
 
+### 05012019SAT
+* [HackerNews Academy: Recommended Courses](https://hn.academy/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
+
+---
 ### 27122018THU
 * [Markdown notes app from Hacker](https://github.com/fabiospampinato/notable)
 * [Typora: Lightweight Makrdown Editor](https://typora.io/)
