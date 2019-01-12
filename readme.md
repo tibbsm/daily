@@ -14,6 +14,9 @@
 
 ## Notes
 
+### 12012019SAT
+* [Hacker News: Top PDFs of 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
+
 ### 05012019SAT
 * [HackerNews Academy: Recommended Courses](https://hn.academy/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
 * [Algorithms: Jeff Ercikson](http://jeffe.cs.illinois.edu/teaching/algorithms/?&utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
