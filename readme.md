@@ -14,6 +14,13 @@
 
 ## Notes
 
+### 18012019FRI
+* [Fasting can improve overall health](https://news.ycombinator.com/item?id=18923169)
+* [Cleaning restaurant floor for $1000 per night](https://news.ycombinator.com/item?id=18920438)
+* [When people are as predictabe as water](https://news.ycombinator.com/item?id=18919957)
+* [Automate social media](https://news.ycombinator.com/item?id=18924750)
+  * [POSSE](https://indieweb.org/POSSE)
+
 ### 12012019SAT
 * [Hacker News: Top PDFs of 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
 
