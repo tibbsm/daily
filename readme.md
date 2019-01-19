@@ -14,6 +14,12 @@
 
 ## Notes
 
+## 19012019SAT
+* [bash tips from HN](https://news.ycombinator.com/item?id=18898523&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
+* [Ask HN: How do you organize everything you want to do?](https://news.ycombinator.com/item?id=18891069&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
+* [Writing things down (how to know what to do next)](https://news.ycombinator.com/item?id=18897952&utm_term=comment)
+* [Most of What We Read on the Internet is Written by Insane People ](https://news.ycombinator.com/item?id=18881827&utm_term=comment)
+
 ### 18012019FRI
 * [Fasting can improve overall health](https://news.ycombinator.com/item?id=18923169)
 * [Cleaning restaurant floor for $1000 per night](https://news.ycombinator.com/item?id=18920438)
