@@ -14,6 +14,9 @@
 
 ## Notes
 
+## 29012019TUE
+* [UCB Data Structures](https://sp18.datastructur.es/)
+
 ## 19012019SAT
 * [bash tips from HN](https://news.ycombinator.com/item?id=18898523&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
 * [Ask HN: How do you organize everything you want to do?](https://news.ycombinator.com/item?id=18891069&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
