@@ -14,6 +14,10 @@
 
 ## Notes
 
+## 15022019FRI
+* [Leather Workshop Tokyo](https://artatelier.base.ec/)
+* [Wood Workshop Kyoto](https://www.kickstarter.com/projects/1911438091/study-woodworking-in-japan/faqs)
+
 ## 29012019TUE
 * [UCB Data Structures](https://sp18.datastructur.es/)
 * [Portfolio Sites](https://codedesigncoffee.net/)
