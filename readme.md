@@ -15,6 +15,9 @@
 ## Notes
 
 ## 15022019FRI
+* [Japanese](https://www.japanese.io/library)
+
+## 15022019FRI
 * [Leather Workshop Tokyo](https://artatelier.base.ec/)
 * [Wood Workshop Kyoto](https://www.kickstarter.com/projects/1911438091/study-woodworking-in-japan/faqs)
 
