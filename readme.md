@@ -14,6 +14,9 @@
 
 ## Notes
 
+## 18032019
+* [UI/UX Lessons](https://hackdesign.org/lessons)
+
 ## 15032019SAT
 * [Gigster: Freelancing in TKY](https://gigsterjp.com/)
 
