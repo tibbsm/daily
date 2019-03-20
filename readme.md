@@ -14,6 +14,9 @@
 
 ## Notes
 
+## 20032019
+* [ImageMagick](https://imagemagick.org/Usage/quantize/)
+
 ## 18032019
 * [UI/UX Lessons](https://hackdesign.org/lessons)
 
