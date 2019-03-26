@@ -16,6 +16,7 @@
 
 ## 26032019
 * [Learn Anything Wiki](https://wiki.nikitavoloboev.xyz/)
+* [Swiss Jobs](https://swissdevjobs.ch/blog/how-to-find-job-as-software-developer-in-switzerland-complete-guide)
 
 ## 20032019
 * [ImageMagick](https://imagemagick.org/Usage/quantize/)
