@@ -13,7 +13,7 @@
 * [3 Quarks Daily](https://www.3quarksdaily.com/)
 
 ## Notes
-
+* https://www.byte-by-byte.com/google-interview/
 * http://www.tanos.co.uk/jlpt/skills/
 ## 29032019
 * [Cool portfolio](https://brettpeary.com/)
