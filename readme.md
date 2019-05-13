@@ -13,6 +13,7 @@
 * [3 Quarks Daily](https://www.3quarksdaily.com/)
 
 ## Notes
+* https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/
 * https://1mb.site/
 * https://www.byte-by-byte.com/google-interview/
 * http://www.tanos.co.uk/jlpt/skills/
