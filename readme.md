@@ -18,6 +18,9 @@
 * https://www.byte-by-byte.com/google-interview/
 * http://www.tanos.co.uk/jlpt/skills/
 * https://news.ycombinator.com/item?id=19800637&utm_term=comment
+* https://www.japansimplelife.com
+* http://japanpropertycentral.com/
+
 ## 29032019
 * [Cool portfolio](https://brettpeary.com/)
 
