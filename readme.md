@@ -20,7 +20,14 @@
 * https://news.ycombinator.com/item?id=19800637&utm_term=comment
 * https://www.japansimplelife.com
 * http://japanpropertycentral.com/
-
+* **Data Structures**
+    * [Visuals](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+    * [Youtube Videos](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+    * [CS61B](https://sp19.datastructur.es/)
+    * [Book 1](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574/ref=sr_1_1?keywords=Problem-Solving-Algorithms-Structures-Python&qid=1560824256&s=gateway&sr=8-1)
+    * [Book 2](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=sr_1_1?keywords=elements+of+programming+interviews+in+python&qid=1560824295&s=gateway&sr=8-1)
+    
+    
 ## 29032019
 * [Cool portfolio](https://brettpeary.com/)
 
