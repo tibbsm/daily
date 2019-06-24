@@ -13,6 +13,7 @@
 * [3 Quarks Daily](https://www.3quarksdaily.com/)
 
 ## Notes
+* [Arch YT](https://www.youtube.com/channel/UCDsElQQt_gCZ9LgnW-7v-cQ)
 * https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/
 * https://1mb.site/
 * https://www.byte-by-byte.com/google-interview/
