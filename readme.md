@@ -1,5 +1,11 @@
 # Daily 
 
+## August 2019
+
+### 5 (MON)
+* Diablo WASM
+   * https://d07riv.github.io/diabloweb/ 
+
 ## July 2019
 
 ### 26 (FRI)
