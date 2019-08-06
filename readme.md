@@ -6,7 +6,7 @@
 * Resume bot with Oregon State (probably have to be enrolled)
    * https://www.vmock.com/oregonstate
 *  **Essays (in true literary prose) written after c. 1900**
-
+   * http://web.archive.org/web/20100726061952/http://www.fooledbyrandomness.com/favbooks.html
 I select essayists as they are more consistent in their prose --you read their prose not their books. This list does not include authors you read for their philosophy.
    * Walter Benjamin (Arendt:"he thought poetically")
    * Cyril Connoly (the finest literary sensibility)
