@@ -5,6 +5,19 @@
 ### 6 (TUE)
 * Resume bot with Oregon State (probably have to be enrolled)
    * https://www.vmock.com/oregonstate
+*  *Essays (in true literary prose) written after c. 1900*
+I select essayists as they are more consistent in their prose --you read their prose not their books. This list does not include authors you read for their philosophy.
+   * Walter Benjamin (Arendt:"he thought poetically")
+   * Cyril Connoly (the finest literary sensibility)
+   * Gaston Bachelard (another aesthetic thinker)
+   * Claude Levi-Strauss (Tristes tropiques was initially meant to be a novel)
+   * Roland Barthes
+   * Emil Cioran
+   * Paul Celan
+   * Isaiah Berlin
+   * George Santayana
+   * John Gray (the philosopher not the pop psychologist -a true genuinely non-nonsense philosopher)
+   * Ernest Renan
 
 ### 5 (MON)
 * Diablo WASM
