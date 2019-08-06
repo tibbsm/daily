@@ -2,6 +2,10 @@
 
 ## August 2019
 
+### 6 (TUE)
+* Resume bot with Oregon State (probably have to be enrolled)
+   * https://www.vmock.com/oregonstate
+
 ### 5 (MON)
 * Diablo WASM
    * https://d07riv.github.io/diabloweb/ 
