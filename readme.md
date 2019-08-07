@@ -4,7 +4,7 @@
 
 ### 7 (WED)
 * Free Online Interview Practice
-   * https://www.pramp.com/#/https://www.pramp.com/#/
+   * https://www.pramp.com
 
 ### 6 (TUE)
 * Resume bot with Oregon State (probably have to be enrolled)
