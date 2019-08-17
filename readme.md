@@ -4,11 +4,11 @@
 
 ### 17 (SAT)
 * Camping / Hiking Websites
-   * [](https://andrewskurka.com/worthy-reading-my-favorite-backpacking-blogs-websites-and-forums/)
-   * [](https://www.adventurealan.com/recommended-backpacking-gear/)
-   * [](http://theultimatehang.com/)   
-   * [](https://hikinginfinland.com/about/)
-   * [](https://sectionhiker.com/category/trip-report/)
+   * [Andrew Skurka](https://andrewskurka.com/worthy-reading-my-favorite-backpacking-blogs-websites-and-forums/)
+   * [Andventure Alan](https://www.adventurealan.com/recommended-backpacking-gear/)
+   * [The Ultimate Hang](http://theultimatehang.com/)   
+   * [Hiking Finland](https://hikinginfinland.com/about/)
+   * [Section Hiker](https://sectionhiker.com/category/trip-report/)
    * [Paul Mags](https://pmags.com/about-me)
    * [BioLite](https://www.bioliteenergy.com)
    * [Solo Stove](https://www.solostove.com/solo-stove-lite/)   
