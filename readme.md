@@ -2,6 +2,19 @@
 
 ## August 2019
 
+### 17 (SAT)
+* Camping / Hiking Websites
+   * [](https://andrewskurka.com/worthy-reading-my-favorite-backpacking-blogs-websites-and-forums/)
+   * [](https://www.adventurealan.com/recommended-backpacking-gear/)
+   * [](http://theultimatehang.com/)   
+   * [](https://hikinginfinland.com/about/)
+   * [](https://sectionhiker.com/category/trip-report/)
+   * [Paul Mags](https://pmags.com/about-me)
+   * [BioLite](https://www.bioliteenergy.com)
+   * [Solo Stove](https://www.solostove.com/solo-stove-lite/)   
+   * [Tenkara](http://ttcmayfly.web.fc2.com/school.html#%E3%83%95%E3%83%A9%E3%82%A4)
+
+   
 ### 7 (WED)
 * Free Online Interview Practice
    * https://www.pramp.com
