@@ -3,6 +3,18 @@
 ## August 2019
 
 ### 17 (SAT)
+* Javascript
+   * https://webapplog.com/es6/
+   * http://es6-features.org/
+   * https://javascript.info
+   * https://github.com/getify/You-Dont-Know-JS
+   * Eloquent JS
+   * ES6: classes, templates literals, let/const, arrow functions, async/await, destructuring, etc.
+   * JSDoc
+   * Frontend Tooling: Node.js, Yarn,npm, Webpack/Gulp, Babel, etc.
+   * CSS preprocessors. BEM/OOCSS
+   * OOD
+
 * Camping / Hiking Websites
    * [Andrew Skurka](https://andrewskurka.com/worthy-reading-my-favorite-backpacking-blogs-websites-and-forums/)
    * [Andventure Alan](https://www.adventurealan.com/recommended-backpacking-gear/)
