@@ -2,6 +2,10 @@
 
 ## August 2019
 
+### 21 (WED)
+* Clean Code, Mythical Man Month, DevOps Handbook, Designing Data-intensive Applications, Godel E B, The Art of Computer Programming, Clean Architecture, Dragon Book, 
+* Serious Python
+
 ### 17 (SAT)
 * Javascript
    * https://webapplog.com/es6/
