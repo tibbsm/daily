@@ -31,6 +31,7 @@
    * [BioLite](https://www.bioliteenergy.com)
    * [Solo Stove](https://www.solostove.com/solo-stove-lite/)   
    * [Tenkara](http://ttcmayfly.web.fc2.com/school.html#%E3%83%95%E3%83%A9%E3%82%A4)
+     * (Calendar)[https://primetimerod.wordpress.com/]
 
    
 ### 7 (WED)
