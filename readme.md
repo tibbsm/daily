@@ -1,5 +1,11 @@
 # Daily 
 
+## September 2019
+
+### 17 (TUE)
+* https://linuxacademy.com/students
+* https://github.com/ossu/computer-science
+
 ## August 2019
 
 ### 21 (WED)
