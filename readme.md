@@ -2,6 +2,9 @@
 
 ## September 2019
 
+### 25 (WED)
+* http://www.fallfishtenkara.com/
+
 ### 17 (TUE)
 * https://linuxacademy.com/students
 * https://github.com/ossu/computer-science
