@@ -4,6 +4,7 @@
 
 ### 25 (WED)
 * http://www.fallfishtenkara.com/
+* https://expeditionportal.com/featured-vehicle-jon-burtts-toyota-tacoma/
 
 ### 17 (TUE)
 * https://linuxacademy.com/students
