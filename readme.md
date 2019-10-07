@@ -1,5 +1,10 @@
 # Daily 
 
+## October 2019
+
+### 7 (MON)
+* https://news.ycombinator.com/item?id=21100377&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
+
 ## September 2019
 
 ### 25 (WED)
