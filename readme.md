@@ -2,6 +2,13 @@
 
 ## October 2019
 
+### 28 (MON)
+* CS61B - Data Structures
+  * https://sp19.datastructur.es/
+* Nand2Tetris
+  * https://www.nand2tetris.org/
+
+
 ### 7 (MON)
 * https://news.ycombinator.com/item?id=21100377&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
 
