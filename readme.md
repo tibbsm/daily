@@ -1,5 +1,8 @@
 # Daily 
 
+## November 2019
+* https://jamstack.org/resources/
+
 ## October 2019
 
 ### 28 (MON)
