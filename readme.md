@@ -1,6 +1,14 @@
 # Daily 
 
 ## November 2019
+* [Pumpkin Bread Recipe](https://www.seriouseats.com/recipes/2018/10/yeasted-pumpkin-bread.html)
+* [Home Carbonation Rig](http://www.truetex.com/carbonation.htm)
+* [Build Web App in Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+* [Cool portfolio](https://leimao.github.io/)
+* [Teach Yourself CS](https://teachyourselfcs.com/)
+* [exercism.io](https://exercism.io/)
+* https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score
+* https://github.com/donnemartin/interactive-coding-challenges
 * https://jamstack.org/resources/
 
 ## October 2019
